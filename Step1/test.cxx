@@ -1,12 +1,12 @@
 #include <iostream>
 using namespace std;
 
-#include "TutorialConfig.h"
+#include "test_config.h"
 
 int main()
 {
 
     cout<<"first cmake program!!!"<<endl;
-    cout<<Tutorial_VERSION_MAJOR<<"."<<Tutorial_VERSION_MINOR<<endl;
+    cout<<TEST_VERSION_MAJOR<<"."<<TEST_VERSION_MINOR<<endl;
     return 0;
 }
