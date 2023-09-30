@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# camke Executables
+*_build
